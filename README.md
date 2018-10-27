@@ -1,4 +1,5 @@
 # hello-world
 ift220 Lab1
-READ ME 3 - ADDING THIS INFORMATION SO CAN DO ANOTHER CHANGE
-I AM A IFT STUDENT IN THE ENGINEERING DEGREE AT ASU
+Read Me 4
+I am a sophomore in the engineering program at ASU
+this is the hello-world program
